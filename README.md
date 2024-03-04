@@ -20,16 +20,11 @@
 ## Projects
 ### Estimation of Particlulate Matter Concentration in United States
 <!--[Publication](https://www.mdpi.com/1424-8220/22/8/3048) -->
-In the development of nationwide PM$_{2.5}$ models, a diverse array of predictor variables was harnessed.
-This included high-temporal AOD data derived from the GOES-16 geostationary satellite, meteorological variables sourced from the ECMWF, ancillary data gathered from various external sources, location-specific solar angles, and reanalysis data related to AOD and air pollutant gases, obtained from the MERRA-2 database. 
-these variables originate from disparate sources, each characterized by distinct coordinate systems and temporal resolutions. To align these datasets, a linear interpolation method was applied, albeit with noticeable consequences on model performance.
-In particular, among the most influential variables that contributed to this performance were AOD, specific humidity, dew point temperature, carbon monoxide, and carbon dioxide.
 
-- Led data collection, processing, and analysis of 53 atmospheric variables from in-situ and remote sensing data utilizing Linux HPC clusters to fit and validate empirical machine learning models for predicting Particulate Matter concentration with 85% accuracy.
-- Developed a physics-based algorithm for humidity correction in Particulate Matter concentration for commercially available low-cost sensors that do not incorporate a dry mechanism. This improvement increased the accuracy of data by 5% in R2 value.
-- Introduced a computational method to estimate airbone nanoparticle (diameter < 50 nm) count in atmosphere. 
+- Led data collection, processing, and analysis of 53 atmospheric variables from in-situ and remote sensing data utilizing Linux HPC clusters to fit and validate empirical machine learning models for predicting nationwide Particulate Matter concentration with 85% accuracy. 
+- This diverse array of predictor variables included high-temporal AOD data derived from the GOES-16 geostationary satellite, meteorological variables sourced from the ECMWF, ancillary data gathered from various external sources, location-specific solar angles, and reanalysis data related to AOD and air pollutant gases, obtained from the MERRA-2 database.
+- These variables originate from disparate sources, each characterized by distinct coordinate systems and temporal resolutions, requiring the use of a linear interpolation method to generate aligned datasets.
 
-Developed emperical machine learning model in python using 53 climate and remote sensing variables to estimate Praticulate Matter in United States.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
@@ -40,6 +35,13 @@ we have developed a humidity correction algorithm by integrating insights from a
 The results revealed favorable agreement between the corrected IPS7100 measurements and the data from the EPA reference sensor.
 
 Used python to developed humidity correction algorithm based on physics theories for low-cost PM sensor to accuratly measure the PM concentration under high humidity condition.
+
+
+
+
+- 
+- Developed a physics-based algorithm for humidity correction in Particulate Matter concentration for commercially available low-cost sensors that do not incorporate a dry mechanism. This improvement increased the accuracy of data by 5% in R2 value.
+- Introduced a computational method to estimate airbone nanoparticle (diameter < 50 nm) count in atmosphere. 
 
 ### Estimate Airborne Nanoparticle concentration
 Despite the minute mass concentration of ultrafine particles (with a diameter less than 100 nm), they dominate the particle count in the atmosphere.
