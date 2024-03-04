@@ -39,7 +39,7 @@
 </div>
 
 
-![Scatter Plot](/assets/OnDewPoint_Dec2023_Jan2024_together_bestFit_pdf.png) ![Scatter Plot 2](/assets/OnDewPoint_Dec2023_Jan2024_together_bestFit_pdf.png)
+
 
 ### Estimate Airborne Nanoparticle concentration
 
