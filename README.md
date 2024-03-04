@@ -34,8 +34,8 @@
 - The results revealed favorable agreement between the corrected low-cost Particulate Matter (PM) sensors measurements and the data from the EPA reference sensor.
 
 <div style="display: flex;">
-    <img src="/assets/OnDewPoint_Dec2023_Jan2024_together_bestFit_pdf.png" alt="Scatter Plot 1" width="400"/>
-    <img src="assets/OnDewPoint_Dec2023_Jan2024_together_bestFit_pdf.png" alt="Scatter Plot 2" width="400"/>
+    <img src="/assets/Frac_Corrected_data__PM2_5_humid__FortWorth_Jan_2024.png" alt="Time Series Plot" width="400"/>
+    <img src="assets/OnDewPoint_Dec2023_Jan2024_together_bestFit_pdf.png" alt="Scatter Plot" width="400"/>
 </div>
 
 
