@@ -45,9 +45,9 @@ Developed empirical machine learning models that can classify 6 respiratory diso
 - Audio Recording to Detect Respiratory Diseases - Scientific Computing (PHYS 5315), Fall 2020
 - Glass Classification Using Machine Learning- Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2019
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+<!--- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA) -->
 
 ## Publications
 1. Prabuddha Madusanka, Lakitha Wijeratne, Xiaohe Yu, Mazhar Iqbal, Gokul Balagopal, John Waczak, Ashen Fernando, Shisir Ruwali and David J. Lary, Providing Estimates of Airborne Particulate Matter Utilizing Complimentary In-Situ and Remote Sensing Approaches (In preparation)
 
-- [Data Science Blog](https://medium.com/@shawhin)
+<!-- - [Data Science Blog](https://medium.com/@shawhin)-->
