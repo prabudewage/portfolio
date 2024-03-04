@@ -29,27 +29,18 @@
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Humidity Correction for Low-Cost PM sensor
+- Most low-cost Particulate Matter (PM) sensors lack an integrated particle drying mechanism, leading to an overestimation of particulate matter concentration under high humidity conditions.
+- This project involved development of a humidity correction algorithm by integrating insights from hygroscopic growth theories and employing the frequency polygon method, analogous to the particle size distribution.
+- The results revealed favorable agreement between the corrected low-cost Particulate Matter (PM) sensors measurements and the data from the EPA reference sensor.
 
-Most of the low-cost Particulate Matter (PM) sensors currently available in the market lack an integrated particle drying mechanism. In environments characterized by elevated relative humidity, particulate matter can experience hygroscopic growth, leading to overestimation of particle sizes by commercially available low-cost PM sensors under such weather conditions. 
-we have developed a humidity correction algorithm by integrating insights from a previous study \cite{DiAntonio:2018} and employing the frequency polygon method, analogous to the particle size distribution.
-The results revealed favorable agreement between the corrected IPS7100 measurements and the data from the EPA reference sensor.
-
-Used python to developed humidity correction algorithm based on physics theories for low-cost PM sensor to accuratly measure the PM concentration under high humidity condition.
-
-
-
-
-- 
-- Developed a physics-based algorithm for humidity correction in Particulate Matter concentration for commercially available low-cost sensors that do not incorporate a dry mechanism. This improvement increased the accuracy of data by 5% in R2 value.
-- Introduced a computational method to estimate airbone nanoparticle (diameter < 50 nm) count in atmosphere. 
 
 ### Estimate Airborne Nanoparticle concentration
-Despite the minute mass concentration of ultrafine particles (with a diameter less than 100 nm), they dominate the particle count in the atmosphere.
-Typically originating from engine emissions, these ultrafine particles prevail in particle count in urban areas. Their smaller size compared to other particles facilitates easy penetration through the human respiratory system, depositing in the lungs.
-Many commercially available low-cost particulate matter sensors have limitations in their measurements.
-PM$_{0.1}$ and PC$_{0.1}$ measurements from these sensors exclude the count of particles with diameter less than 50 nm. Using the aerosol size distribution with three log-normal distributions representing nuclei, accumulation, and coarse modes enables the calculation of the particle count with a diameter less than 50 nm. This method proves to be valuable for characterizing PM and PC across all size fractions in various geographical areas.
 
-Introducing computational algorithm based on physics theories to estimate airborne nano particle concentration.
+- Despite the minute mass concentration of ultra particles (with a diameter less than 100 nm), they dominate the particle count in the atmosphere.
+- Typically originating from engine emissions, these ultrafine particles prevail in particle count in urban areas. Their smaller size compared to other particles facilitates easy penetration through the human respiratory system, depositing in the lungs.
+- Many commercially available low-cost particulate matter sensors have limitations in their measurements.
+- Introduced a computational method utilizing the aerosol size distribution with three log-normal distributions representing nuclei, accumulation, and coarse modes enables the calculation of the particle count with a diameter less than 50 nm. 
+
 
 ### Respiratory Disorders Classification
 
