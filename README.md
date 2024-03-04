@@ -33,7 +33,7 @@
 - This project involved development of a humidity correction algorithm by integrating insights from hygroscopic growth theories and employing the frequency polygon method, analogous to the particle size distribution.
 - The results revealed favorable agreement between the corrected low-cost Particulate Matter (PM) sensors measurements and the data from the EPA reference sensor.
 
-![EEG Band Discovery](/assets/OnDewPoint_Dec2023_Jan2024_together_bestFit_pdf.png)
+![Scatter Plot](/assets/OnDewPoint_Dec2023_Jan2024_together_bestFit_pdf.png) ![Scatter Plot 2](/assets/OnDewPoint_Dec2023_Jan2024_together_bestFit_pdf.png)
 
 ### Estimate Airborne Nanoparticle concentration
 
