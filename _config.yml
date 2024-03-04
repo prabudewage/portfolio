@@ -2,7 +2,7 @@ title: Prabuddha Madusanka
 logo: /assets/profile_pic.png
 description: Doctoral candidate in Physics at The University of Texas at Dallas.
 
-            My research focuses on the analysis of climate and remote sensing data to construct empirical machine learning models for predicting Particulate Matter concentration. 
+description: My research focuses on the analysis of climate and remote sensing data to construct empirical machine learning models for predicting Particulate Matter concentration. 
             I also focus on development of computational algorithms based on physics theory to correct low-cost particulate matter sensor measurements during adverse weather conditions and estimate airborne nanoparticle concentrations.
 #show_downloads: true
 theme: jekyll-theme-minimal
