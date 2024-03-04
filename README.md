@@ -41,7 +41,8 @@
 
 
 <div style="display: flex;">
-    <img src="/assets/OnDewPoint_Dec2023_Jan2024_together_bestFit_pdf.png" alt="Time Series Plot" width="50"/> <img src="assets/OnDewPoint_Dec2023_Jan2024_together_bestFit_pdf.png" alt="Scatter Plot" width="50"/>
+    <img src="/assets/OnDewPoint_Dec2023_Jan2024_together_bestFit_pdf.png" alt="Time Series Plot" width="50"/> 
+    <img src="assets/OnDewPoint_Dec2023_Jan2024_together_bestFit_pdf.png" alt="Scatter Plot" width="50"/>
 </div>
 
 ### Estimate Airborne Nanoparticle concentration
