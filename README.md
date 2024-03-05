@@ -51,6 +51,8 @@
 
 ![Humiditiy Corrected Data](/assets/log_norm.png)
 
+![Humiditiy Corrected Data](/assets/nano_time.png)
+
 ### Respiratory Disorders Classification
 
 Developed empirical machine learning models that can classify 6 respiratory disorders based on data from respiratory sound and demographic information with fast Fourier transform using MATLAB. 
@@ -60,8 +62,6 @@ Developed empirical machine learning models that can classify 6 respiratory diso
 - Graduate Studies Scholarship, The University of Texas at Dallas, 2019
 - Annual Householder Award - Outstanding MS Academic Achievement, The University of Akron, 2018 & 2017
 
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Talks
 - Audio Recording to Detect Respiratory Diseases - Scientific Computing (PHYS 5315), Fall 2020
