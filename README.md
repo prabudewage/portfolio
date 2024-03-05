@@ -35,7 +35,10 @@
 
 ![Hygroscopic Growth](/assets/hydro_grow.png)
 
+![Frequency Polygon](/assets/frq_poly.png)
+
 - The results revealed favorable agreement between the corrected low-cost Particulate Matter (PM) sensors measurements and the data from the EPA reference sensor.
+
 
 
 ### Estimate Airborne Nanoparticle concentration
