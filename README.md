@@ -25,8 +25,9 @@
 - This diverse array of predictor variables included high-temporal AOD data derived from the GOES-16 geostationary satellite, meteorological variables sourced from the ECMWF, ancillary data gathered from various external sources, location-specific solar angles, and reanalysis data related to AOD and air pollutant gases, obtained from the MERRA-2 database.
 - These variables originate from disparate sources, each characterized by distinct coordinate systems and temporal resolutions, requiring the use of a linear interpolation method to generate aligned datasets.
 
+![Model Evaluation](/assets/pm_est_eval.png)
 
-![EEG Band Discovery](/assets/pm_est_map.png)
+![PM Estimation Reconstruction Map](/assets/pm_est_map.png)
 
 ### Humidity Correction for Low-Cost PM sensor
 - Most low-cost Particulate Matter (PM) sensors lack an integrated particle drying mechanism, leading to an overestimation of particulate matter concentration under high humidity conditions.
