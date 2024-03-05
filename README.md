@@ -26,7 +26,7 @@
 - These variables originate from disparate sources, each characterized by distinct coordinate systems and temporal resolutions, requiring the use of a linear interpolation method to generate aligned datasets.
 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets/Screen Shot 2024-03-04 at 7.30.08 PM.png)
 
 ### Humidity Correction for Low-Cost PM sensor
 - Most low-cost Particulate Matter (PM) sensors lack an integrated particle drying mechanism, leading to an overestimation of particulate matter concentration under high humidity conditions.
