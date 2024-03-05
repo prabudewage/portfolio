@@ -49,6 +49,7 @@
 - Many commercially available low-cost particulate matter sensors have limitations in their measurements.
 - Introduced a computational method utilizing the aerosol size distribution with three log-normal distributions representing nuclei, accumulation, and coarse modes enables the calculation of the particle count with a diameter less than 50 nm. 
 
+![Humiditiy Corrected Data](/assets/log_norm.png)
 
 ### Respiratory Disorders Classification
 
