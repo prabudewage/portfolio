@@ -39,6 +39,7 @@
 
 - The results revealed favorable agreement between the corrected low-cost Particulate Matter (PM) sensors measurements and the data from the EPA reference sensor.
 
+![Humiditiy Corrected Data](/assets/humid_result.png)
 
 
 ### Estimate Airborne Nanoparticle concentration
